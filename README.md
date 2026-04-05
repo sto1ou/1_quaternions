@@ -19,5 +19,5 @@
   - Поворот векторов в пространстве
 
 Запуск:
-1. Установите зависимости: pip install -r requirements.txt
-2. Запустите тесты: pytest test_quaternion.py
+1. Установите зависимости: `pip install -r requirements.txt`
+2. Запустите тесты: `pytest test_quaternion.py`
